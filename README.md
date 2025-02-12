@@ -3,4 +3,4 @@
 
 
 
-[Link to Techincal Management hierarchy page](./technical-management.html).
+[Link to Technical Management hierarchy page](./technical-management.html).
