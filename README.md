@@ -1,5 +1,6 @@
 # Amazon Workfront Project Hierarchy
 
+<div id="bannerimage"></div>
 
 [Link to Account Management page](./account-management.html)
 
