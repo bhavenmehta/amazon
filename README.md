@@ -1,8 +1,10 @@
-# Amazon Workfront Project Hierarchy
+<div id="bannerimage">
 
-<div id="bannerimage"></div>
+# Amazon Workfront Project Hierarchy
 
 [Link to Account Management page](./account-management.html)
 
 
 [Link to Technical Management page](./technical-management.html)
+
+</div>
