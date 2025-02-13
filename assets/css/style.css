@@ -9,6 +9,14 @@ body {
     margin: 0
 }
 
+#bannerimage {
+  width: 100%;
+  background-image: url(http://s30.postimg.org/x0ne0p5wx/bootsrap.png);
+  height: 405px;
+  background-color: #ff9900;
+  background-position: center;
+}
+
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section {
     display: block
 }
